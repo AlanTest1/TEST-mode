@@ -1,1 +1,1 @@
-# -TEST-mode
+# Keep Bitcoin.js
