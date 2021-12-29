@@ -1,1 +1,1 @@
-[{"id":"e2d39185-cf9a-b0de-46ff-c8e2f65bc0ff","parentId":"","request":{"text":"hey there"},"response":"[{\"text\":\"hello\",\"rLoc\":{\"file\":\"Test\",\"line\":3},\"reqId\":\"1629243047334/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"Test\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
+[]
