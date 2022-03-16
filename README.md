@@ -1,1 +1,2 @@
 # Keep testCase.testcase
+/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
