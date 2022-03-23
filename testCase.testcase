@@ -1,2 +1,2 @@
 /* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
-[]
+[{"id":"f70acb85-f2b6-435a-08ee-f63dcf685f6d","parentId":"","request":{"text":"hello"},"response":"[{\"text\":\"Hey\",\"error\":true,\"reqId\":\"1647996413059/1\",\"textInput\":true}]","meta":"{}","visualProperties":"{\"childIndex\":0}"}]
