@@ -1,2 +1,2 @@
 /* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
-[{"id":"465a4593-9163-6233-7d56-2127137f4d19","parentId":"","request":{"text":"hey there"},"response":"[{\"text\":\"hello\",\"rLoc\":{\"file\":\"Test\",\"line\":3},\"reqId\":\"1629243047334/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"Test\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
+[]
