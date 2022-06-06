@@ -1,2 +1,2 @@
-/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
+/* Please do not make any changes directly in the file, on[]
 [{"id":"dff0ef2b-1fd2-da4a-6734-7dc7ccf24f97","parentId":"","request":{"text":"hey there"},"response":"[{\"text\":\"hello\",\"rLoc\":{\"file\":\"Test\",\"line\":3},\"reqId\":\"1629243047334/1\",\"success\":true,\"textInput\":true}]","meta":"{\"pLoc\":{\"file\":\"Test\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
