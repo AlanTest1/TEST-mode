@@ -1,2 +1,2 @@
 /* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
-[{"id":"49aca4db-5979-c030-03c0-d88f8121bae3","parentId":"","request":{"text":"hello world"},"response":"[{\"opts\":{},\"rLoc\":{\"file\":\"test\",\"line\":3},\"reqId\":\"1661808900103/1\",\"success\":true,\"textInput\":true,\"text\":\"hello\",\"ctx\":{\"opts\":{},\"rLoc\":{\"file\":\"test\",\"line\":3},\"reqId\":\"1661808900103/1\",\"success\":true,\"textInput\":true}}]","meta":"{\"pLoc\":{\"file\":\"test\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
+[]
