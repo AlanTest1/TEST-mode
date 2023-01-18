@@ -1,1 +1,2 @@
-[]
+/* Please do not make any changes directly in the file, only through our Platform, otherwise it won't work */
+[{"id":"c41cb006-400c-2baf-71ff-4c4810fd5288","parentId":"","request":{"text":"hello world"},"response":"[{\"opts\":{},\"rLoc\":{\"file\":\"test\",\"line\":3},\"reqId\":\"1661808900103/1\",\"success\":true,\"textInput\":true,\"text\":\"hello\",\"ctx\":{\"opts\":{},\"rLoc\":{\"file\":\"test\",\"line\":3},\"reqId\":\"1661808900103/1\",\"success\":true,\"textInput\":true}}]","meta":"{\"pLoc\":{\"file\":\"test\",\"line\":2}}","visualProperties":"{\"childIndex\":0}"}]
